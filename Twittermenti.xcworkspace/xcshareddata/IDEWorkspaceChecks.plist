@@ -2,9 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>API Key</key>
-	<string>N1ZLgtXCd3ElQ0pwZRcdL1MZP</string>
-	<key>API Secret</key>
-	<string>TLE1Bk6n3pPJCmmNUXrk8TO8fYyeyFfTvE7LkJC8ryUQODZ7m5</string>
+	<key>IDEDidComputeMac32BitWarning</key>
+	<true/>
 </dict>
 </plist>

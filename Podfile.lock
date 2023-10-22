@@ -1,0 +1,28 @@
+PODS:
+  - Swifter (2.5.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Swifter (from `https://github.com/mattdonnelly/Swifter.git`)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Swifter:
+    :git: https://github.com/mattdonnelly/Swifter.git
+
+CHECKOUT OPTIONS:
+  Swifter:
+    :commit: f6888d61500f46ca6d1814fe2624056339eda986
+    :git: https://github.com/mattdonnelly/Swifter.git
+
+SPEC CHECKSUMS:
+  Swifter: 4c2f8cf320c2f751c10128f841d8e9bd8609d988
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 7d9af4c1f8bb3932e6767ea8127ea986399b9d4d
+
+COCOAPODS: 1.13.0
